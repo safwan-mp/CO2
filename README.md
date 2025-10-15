@@ -68,5 +68,4 @@ notebooks/CO2_prediction.ipynb
 ---
 
 ## 🙌 Author
-**Ijaz Abdul**  
-[LinkedIn](https://www.linkedin.com/in/your-link) | [Portfolio](#)
+**Safwan MP**  
