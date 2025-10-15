@@ -45,5 +45,4 @@ To explore song trends, artists' dominance, and audio features of popular songs 
 ---
 
 ## 🙌 Author
-**Ijaz Abdul**  
-[LinkedIn](https://www.linkedin.com/in/your-link) | [Portfolio](#)
+**Safwan MP**  
